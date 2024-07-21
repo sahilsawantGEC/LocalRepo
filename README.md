@@ -1,4 +1,5 @@
 # This is my local repo
 
-Author: Sahil Sawant 
-College: Goa College of Engineering
+Author: Sahil Sawant and Einesh Naik 
+
+College: Goa College of Engineering, Farmagudi Goa.
